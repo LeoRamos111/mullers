@@ -437,6 +437,9 @@ main .sessao-03 .circle2 {
         width: 50%;
 
     }
+    main .sessao-01 .container-right {
+        padding-bottom: 30px;
+    }
     main .sessao-01 .container-right img{
         width: 340px;
     }
