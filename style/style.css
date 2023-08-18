@@ -80,7 +80,7 @@ main .sessao-01 {
     display: flex;
     align-items: center;
     justify-content: center;
-    background-image: url(/img/background.png);
+    background-image: url("https://github.com/LeoRamos111/mullers/blob/main/img/background.png?raw=true");
     background-repeat: no-repeat;
     background-size: cover;
     gap: 150px;
