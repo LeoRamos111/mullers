@@ -80,7 +80,7 @@ main .sessao-01 {
     display: flex;
     align-items: center;
     justify-content: center;
-    background-image: url("https://github.com/LeoRamos111/mullers/blob/main/img/background.png?raw=true");
+    background-image: url(/img/background.png);
     background-repeat: no-repeat;
     background-size: cover;
     gap: 150px;
@@ -401,9 +401,6 @@ main .sessao-03 .circle2 {
 
 
 
-
-
-
 /* Responsabilidade */
 
 @media (max-width: 785px){
@@ -437,11 +434,8 @@ main .sessao-03 .circle2 {
         width: 50%;
 
     }
-    main .sessao-01 .container-right {
-        padding-bottom: 30px;
-    }
     main .sessao-01 .container-right img{
-        width: 340px;
+        width: 300px;
     }
 
 
